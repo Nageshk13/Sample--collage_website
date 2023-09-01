@@ -1,2 +1,3 @@
 # Sample--collage_website
-Sample web template of collage website.
+To open for this
+-> Run the index.html file with it's belonging folder
